@@ -1,18 +1,38 @@
-# Thanakrit Hop
+# Project: Student Registration System
 
-## About Me
-- 👋 Hi, my name is Thanakrit Hop.
-- 🎓 I am a student.
-- 💻 I am interested in programming and web development.
-- 🌱 I am currently learning Git, GitHub, HTML, CSS, JavaScript, and Google Apps Script.
-- 🎯 My goal is to become a software developer.
+## 📌 Project Description
+This project is a Student Registration System developed for learning web development.
+Users can register by entering their personal information, and the data is stored in Google Sheets using Google Apps Script.
 
-## Skills
+## ✨ Features
+- Register student information
+- Save data to Google Sheets
+- Responsive web interface
+- Easy to use
+
+## 🛠 Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Google Apps Script
+- Google Sheets
 - Git & GitHub
 
-## Contact
-- Email: your-email@example.com
+## 📂 Project Structure
+```
+project/
+│── index.html
+│── style.css
+│── script.js
+│── Code.gs
+└── README.md
+```
+
+## 🚀 How to Use
+1. Open the Web App.
+2. Fill in the registration form.
+3. Click the **Register** button.
+4. Data will be saved automatically to Google Sheets.
+
+## 👨‍💻 Author
+**Thanakrit Hop**
